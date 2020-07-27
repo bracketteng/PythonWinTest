@@ -1,5 +1,5 @@
 #inventory.py
-stuff = {'rope': 1, 'torch': 6, 'Gold': 42, 'dagger': 1, 'Arrow': 12}
+stuff = ['rope': 1, 'torch': 6, 'Gold': 42, 'dagger': 1, 'Arrow': 12]
 
 def display(inventory):
   print ("Inventory:")
